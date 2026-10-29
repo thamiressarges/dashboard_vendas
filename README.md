@@ -14,7 +14,7 @@ O objetivo é transformar dados brutos de vendas em informações relevantes par
 
 Você pode acessar a versão online do dashboard através do link abaixo:
 
-🔗 **[Acessar Dashboard de Vendas no Streamlit]([[https://dashboardvendas-aeopvpnpiwboigrpnkkrvo.streamlit.app)]])**
+🔗 **[Acessar Dashboard de Vendas no Streamlit](https://dashboardvendas-aeopvpnpiwboigrpnkkrvo.streamlit.app)**
 
 ## 🚀 Funcionalidades
 
